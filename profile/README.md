@@ -1,5 +1,9 @@
 # Beauty Wallet
 
+## Project Status
+
+Work in progress. Not released yet.
+
 ## Future Features / Future PR points
 
 <p><ul>
