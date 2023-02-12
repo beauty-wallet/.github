@@ -1,6 +1,6 @@
 # Beauty Wallet
 
-## Features / Future PR points
+## Future Features / Future PR points
 
 <p><ul>
 <li>https://www.reddit.com/r/opensource/comments/ljg2zm/no_good_fully_open_source_multi_crypto_wallets/
